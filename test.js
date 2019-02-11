@@ -39,4 +39,6 @@ describe("The func should return an array", function(){
 		});
 	});
 
+	it("jdfhj", function(){});
+
 });
